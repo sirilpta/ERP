@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP", "ERP\ERP.csproj", "{3539BE2D-2410-4B67-B637-1E809DE520A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.DAL", "ERP.DAL\ERP.DAL.csproj", "{9E5F5E30-D0A9-424E-9C40-7BCB820C2157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Logic", "ERP.Logic\ERP.Logic.csproj", "{82514431-1436-4CAD-9E22-B523536F472F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3539BE2D-2410-4B67-B637-1E809DE520A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3539BE2D-2410-4B67-B637-1E809DE520A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3539BE2D-2410-4B67-B637-1E809DE520A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3539BE2D-2410-4B67-B637-1E809DE520A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5F5E30-D0A9-424E-9C40-7BCB820C2157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5F5E30-D0A9-424E-9C40-7BCB820C2157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5F5E30-D0A9-424E-9C40-7BCB820C2157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5F5E30-D0A9-424E-9C40-7BCB820C2157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82514431-1436-4CAD-9E22-B523536F472F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82514431-1436-4CAD-9E22-B523536F472F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82514431-1436-4CAD-9E22-B523536F472F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82514431-1436-4CAD-9E22-B523536F472F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
